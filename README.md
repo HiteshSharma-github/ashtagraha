@@ -16,7 +16,7 @@ QR Code to download App -(https://user-images.githubusercontent.com/85629794/162
 @ Mumbai Hackathon, 2022
 
 Team - 102      
-Team Leader - Santo Sunny 
+Team Leader - Santo Sunny              
 Team Memebers-
 1- Hitesh Sharma
 2- Sahil Bane
