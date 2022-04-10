@@ -2,6 +2,9 @@
 
 Purpose - To provide an engaging learning experience to combat mindless rote-learning and motivate them to explore various subjects in depth.
 
+Before opening the project, just make sure that you have installed unreal engine 4.26.2.
+open the uproject file with unreal engine 
+
 Tech Stacks-                              
 1-Unreal Engine                          
 2- Html, CSS                           
