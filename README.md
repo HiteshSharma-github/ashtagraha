@@ -2,10 +2,10 @@
 
 Purpose - To provide an engaging learning experience to combat mindless rote-learning and motivate them to explore various subjects in depth.
 
-Tech Stacks-
-1-Unreal Engine
-2- Html, CSS
-3- API - Formsubmit, appygeyser, Google Map for Location 
+Tech Stacks-                              
+1-Unreal Engine                          
+2- Html, CSS                           
+3- API - Formsubmit, appygeyser, Google Map for Location                          
 
 Link for Hosted website - https://ashtagraha.netlify.app/                  
 Link to download app - https://appsgeyser.io/15394422/Ashtagraha                              
@@ -15,10 +15,10 @@ QR Code to download App -(https://user-images.githubusercontent.com/85629794/162
 
 @ Mumbai Hackathon, 2022
 
-Team - 102      
-Team Leader - Santo Sunny              
-Team Memebers-
-1- Hitesh Sharma
-2- Sahil Bane
-3- Naman Chouhan
+Team - 102       
+Team Leader - Santo Sunny                              
+Team Memebers-                        
+1- Hitesh Sharma                    
+2- Sahil Bane                      
+3- Naman Chouhan                         
 4- Malika Montero
